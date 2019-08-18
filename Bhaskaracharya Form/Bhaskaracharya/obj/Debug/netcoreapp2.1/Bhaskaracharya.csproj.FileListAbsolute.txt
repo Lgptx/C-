@@ -1,0 +1,11 @@
+C:\Users\Lg-Jk\source\repos\Bhaskaracharya Form\Bhaskaracharya\bin\Debug\netcoreapp2.1\Bhaskaracharya.deps.json
+C:\Users\Lg-Jk\source\repos\Bhaskaracharya Form\Bhaskaracharya\bin\Debug\netcoreapp2.1\Bhaskaracharya.runtimeconfig.json
+C:\Users\Lg-Jk\source\repos\Bhaskaracharya Form\Bhaskaracharya\bin\Debug\netcoreapp2.1\Bhaskaracharya.runtimeconfig.dev.json
+C:\Users\Lg-Jk\source\repos\Bhaskaracharya Form\Bhaskaracharya\bin\Debug\netcoreapp2.1\Bhaskaracharya.dll
+C:\Users\Lg-Jk\source\repos\Bhaskaracharya Form\Bhaskaracharya\bin\Debug\netcoreapp2.1\Bhaskaracharya.pdb
+C:\Users\Lg-Jk\source\repos\Bhaskaracharya Form\Bhaskaracharya\obj\Debug\netcoreapp2.1\Bhaskaracharya.csprojAssemblyReference.cache
+C:\Users\Lg-Jk\source\repos\Bhaskaracharya Form\Bhaskaracharya\obj\Debug\netcoreapp2.1\Bhaskaracharya.csproj.CoreCompileInputs.cache
+C:\Users\Lg-Jk\source\repos\Bhaskaracharya Form\Bhaskaracharya\obj\Debug\netcoreapp2.1\Bhaskaracharya.AssemblyInfoInputs.cache
+C:\Users\Lg-Jk\source\repos\Bhaskaracharya Form\Bhaskaracharya\obj\Debug\netcoreapp2.1\Bhaskaracharya.AssemblyInfo.cs
+C:\Users\Lg-Jk\source\repos\Bhaskaracharya Form\Bhaskaracharya\obj\Debug\netcoreapp2.1\Bhaskaracharya.dll
+C:\Users\Lg-Jk\source\repos\Bhaskaracharya Form\Bhaskaracharya\obj\Debug\netcoreapp2.1\Bhaskaracharya.pdb
